@@ -1,0 +1,27 @@
+<?php 
+
+return [
+    'agree' => 'acepto los términos',
+    'failed' => 'Estas credenciales no coinciden con nuestros registros.',
+    'throttle' => 'Demasiados intentos de acceso. Por favor intente nuevamente en :seconds segundos.',
+    'login_title' => 'login_title',
+    'email' => 'email',
+    'password' => 'password',
+    'remember_me' => 'remember_me',
+    'login' => 'login',
+    'login_facebook' => 'login_facebook',
+    'login_google' => 'login_google',
+    'login_twitter' => 'login_twitter',
+    'forgot_password' => 'forgot_password',
+    'register_new_member' => 'register_new_member',
+    'reset_title' => 'reset_title',
+    'send_password' => 'send_password',
+    'remember_password' => 'remember_password',
+    'reset_password_title' => 'reset_password_title',
+    'password_confirmation' => 'password_confirmation',
+    'reset_password' => 'reset_password',
+    'name' => 'name',
+    'register' => 'register',
+    'already_member' => 'already_member',
+    'logout' => 'logout',
+];
